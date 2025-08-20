@@ -1,4 +1,4 @@
-[![🚧 Live Preview – Coming Soon](https://img.shields.io/badge/🚧_Live_Preview-Coming_Soon-orange?style=for-the-badge)](#)
+[![Live Preview – Coming Soon](https://img.shields.io/badge/🚧_Live_Preview-Coming_Soon-orange?style=for-the-badge)](#)
 
 
 # sito-agriturismo-reale
