@@ -1,3 +1,5 @@
+![In progress](https://img.shields.io/badge/Stato-In%20Costruzione-yellow?style=for-the-badge)
+
 [![Live Preview – Coming Soon](https://img.shields.io/badge/Live_Preview-Coming_Soon-orange?style=for-the-badge)](#)
 
 
