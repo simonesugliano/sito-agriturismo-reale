@@ -1,4 +1,5 @@
-[![Live Preview](https://img.shields.io/badge/Live%20Preview-Online-green?style=for-the-badge)](https://tuo-link-demo.com)
+[![🚧 Live Preview – Coming Soon](https://img.shields.io/badge/🚧_Live_Preview-Coming_Soon-orange?style=for-the-badge)](#)
+
 
 # sito-agriturismo-reale
 
