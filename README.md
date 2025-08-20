@@ -1,10 +1,10 @@
+[![Live Preview](https://img.shields.io/badge/Live%20Preview-Online-green?style=for-the-badge)](https://tuo-link-demo.com)
+
 # sito-agriturismo-reale
 
 ---
 
-[![Live Preview](https://img.shields.io/badge/Live%20Preview-Online-green?style=for-the-badge)](https://tuo-link-demo.com)
 
----
 
 ## Sito Web per Agriturismo Reale – Progetto in costruzione
 
