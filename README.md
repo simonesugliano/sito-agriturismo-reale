@@ -2,126 +2,118 @@
 [![Live Preview – Coming Soon](https://img.shields.io/badge/Live_Preview-Coming_Soon-orange?style=for-the-badge)](#)
 
 
-# Sito-agriturismo-reale
+# Sito-Agriturismo-Reale  
+**Progetto reale di sviluppo web per un agriturismo italiano**
 
 ---
 
+## Descrizione generale
 
-
-## Sito Web per Agriturismo Reale – Progetto in costruzione
+Questo repository documenta la **realizzazione su misura del sito web per un agriturismo reale**, sviluppato in stretta collaborazione con i titolari della struttura.  
+Non si tratta di un esercizio o di un template preconfezionato: è un sito **operativo**, destinato ad andare online per davvero, rappresentando un’attività agricola e turistica autentica.
 
 ---
-
-Benvenuto nel repository di un progetto reale: la creazione su misura del sito web per un vero agriturismo italiano, realizzato in stretta collaborazione con l’azienda agricola stessa. **Questo non è un esercizio scolastico, ma un progetto vivo**, costruito passo dopo passo sulle esigenze autentiche di un'attività operativa.
 
 ## Collaborazione reale
 
-Questo sito nasce da una collaborazione diretta con i titolari di un agriturismo attivo, che hanno espresso la necessità di rinnovare la propria presenza online con uno strumento semplice, funzionale e coerente con i valori della struttura.
-Ogni pagina, sezione e funzionalità è frutto di un dialogo costante tra sviluppo e esigenze aziendali.
+Il progetto nasce da un confronto diretto con l’azienda agricola, che ha espresso l’esigenza di rinnovare la propria presenza online con uno strumento moderno, veloce e coerente con i propri valori.  
+Il **wireframe iniziale** è stato presentato e **approvato integralmente** dai titolari, ponendo le basi per uno sviluppo concreto e condiviso.
 
-## Stato attuale
-
-In costruzione. Il progetto è in pieno sviluppo ma ha già una struttura solida:
-
-Wireframe definito
-[Vai alla cartella wireframes](./wireframes)
-
-
-Mockup in corso
-
-Prime pagine in HTML/CSS/JS già impostate
-
-Integrazione pianificata con servizi di prenotazione e moduli contatto
+Successivamente è stata realizzata una **demo completa**, con immagini e testi generici, per mostrare l’esperienza di navigazione e la struttura finale del sito.
 
 ---
 
-## Obiettivi del progetto
+## Stato attuale del progetto
 
-Offrire una vetrina moderna e accessibile a un’attività rurale che vive di contatto umano e autenticità.
+Il sito è **già online in versione demo**, ospitato su **Altervista**, per permettere ai titolari dell’agriturismo di **seguire in tempo reale gli sviluppi e le modifiche** man mano che il progetto procede.  
+In questa fase il sito è accessibile pubblicamente per facilitare il confronto e la revisione, ma **non è ancora pronto alla pubblicazione definitiva**.
 
-Realizzare un sito leggero, veloce e mobile-friendly, senza plugin inutili o design confusionari.
+Per proteggere il lavoro in corso ed evitare che Google indicizzi contenuti o dati non ancora reali, è stato **volontariamente inserito un meta tag di esclusione** che blocca temporaneamente l’indicizzazione.  
+La **struttura SEO è già completa e pronta**: quando i contenuti saranno definitivi, la limitazione verrà rimossa e il sito potrà posizionarsi correttamente nei risultati locali.
 
-Integrazione con strumenti esterni per:
+> ⚠️ **Nota importante:** tutti i numeri di telefono, indirizzi email, link esterni e riferimenti presenti nella demo sono **segnaposto temporanei**.  
+> Verranno sostituiti con i dati ufficiali dell’agriturismo prima della messa online definitiva, insieme a fotografie, testi e video autentici forniti dai titolari.
 
-Richiesta prenotazioni (camere, pranzi, eventi)
-
-Moduli di contatto rapidi
-
-Eventuale calendario stagionale
-
-gestione cookies
-
----
-
-## Tecnologie usate
-
-HTML5/CSS3 puri, senza framework esterni
-
-JavaScript Vanilla, per interazioni leggere e controllo massimo
-
-Media Query per una responsività reale, testata su più dispositivi
-
-Snippet su misura (es. pulsanti nascosti nelle immagini per attivare moduli)
-
-Integrazione con servizi esterni (es. Formspree, Calendly, Booking engine)
+**Funzionalità già presenti nella demo:**
+- Integrazione con **Iubenda** per cookie e privacy conformi al GDPR  
+- **JSON-LD LocalBusiness Schema** completo per SEO locale  
+- **Mappa interattiva** a caricamento progressivo per ottimizzare privacy e performance  
+- **Pagine legali** già scritte (Note Legali, Privacy & Cookie Policy)
 
 ---
 
-## Struttura del sito
+## Feedback del cliente e modifiche richieste
 
-Hero con immagini immersive
+Dopo la presentazione della demo, i titolari hanno approvato struttura e impostazione visiva, richiedendo alcune **integrazioni e migliorie** per la versione finale:
 
-Presentazione della struttura
+1. **Prenotazioni collegate direttamente a Booking.com**  
+   → Obiettivo: sincronizzare le disponibilità reali tramite feed iCal o channel manager, per aggiornare automaticamente camere e date.
 
-Camere e accoglienza
+2. **Integrazione con TripAdvisor**  
+   → Inserimento di widget con recensioni verificate e badge di qualità, per migliorare reputazione e fiducia.
 
-Ristorazione e prodotti locali
+3. **Nuova sezione “Vivi la campagna”**  
+   → Pagina dedicata alle esperienze autentiche offerte dall’agriturismo (degustazioni, raccolta, contatto con gli animali, natura e vita rurale).  
+   Micro-animazioni e CTA nascoste inviteranno il visitatore a scoprire di più.
 
-Eventi stagionali
-
-Form contatto e prenotazione
-
-Footer con recapiti e link utili
-
----
-
-## Funzionalità in evidenza
-
-Call to action nascoste: alcune immagini contengono link o trigger verso il form di contatto
-
-Design chiaro, naturale e pulito, che richiama il mondo agricolo
-
-Zero template preconfezionati: ogni riga è scritta a mano
-
-Codice leggibile e documentato, pensato per chi volesse riutilizzarlo o studiarlo
+4. **Proposta tecnica aggiuntiva (iniziativa personale)**  
+   → Implementazione di immagini **WebP e AVIF con fallback automatico**, per migliorare ulteriormente i tempi di caricamento.  
+   → Ottimizzazione **SEO avanzata** con analisi semantica dei titoli e microdati locali.
 
 ---
 
-## Prossimi sviluppi
+## Prossimi step
 
-Inserimento contenuti definitivi (testi, foto, orari)
-
-Ottimizzazione SEO e caricamento performance
-
-Traduzione multilingua (EN)
-
-Implementazione modulo di prenotazione reale
+- Implementazione del collegamento diretto con **Booking** e **TripAdvisor**  
+- Inserimento di **foto e video autentici** forniti dai titolari, man mano che vengono prodotti  
+- Rifinitura dei testi descrittivi e delle call-to-action  
+- Ottimizzazione finale **SEO e PageSpeed**  
+- Rimozione della protezione da indicizzazione e attivazione ufficiale su Google  
+- Pubblicazione definitiva con contenuti reali  
 
 ---
 
-## Perché è un progetto che conta
+## SEO: già pronta, ma momentaneamente disattivata
 
-A differenza di tanti progetti simulati o scolastici, questo sito ha un impatto reale e misurabile. Il mio codice andrà effettivamente online, sarà visitato da clienti reali e dovrà portare risultati: visibilità, richieste, contatti.
+L’intero sito è stato **costruito attorno alla SEO**, non aggiunta in un secondo momento.  
+Ogni elemento è progettato per posizionarsi correttamente una volta sbloccata l’indicizzazione:
 
-È una responsabilità grande, ma anche una grande opportunità per mostrare cosa so fare, a partire da HTML e CSS puri, con zero scorciatoie.
+- Titoli e meta-description ottimizzati per ricerche locali (*Langhe, agriturismo, Torre Bormida*)  
+- Struttura semantica coerente con `<section>`, `<article>`, `<h1>`–`<h3>`  
+- **JSON-LD “LodgingBusiness”** completo di coordinate e link social  
+- **Canonical e Open Graph** per condivisione social pulita  
+- Codice leggero e tempi di caricamento inferiori ai 2 secondi su desktop  
+
+📍 La **non indicizzazione è temporanea e intenzionale**: serve solo per proteggere la demo pubblicata online.  
+Quando verrà rimossa, la struttura SEO è già pronta a **scalare i risultati locali su Google**.
+
+---
+
+## Stack tecnico
+
+- **HTML5 / CSS3 / JavaScript Vanilla**  
+  (senza framework pesanti, per leggerezza e controllo totale)
+- **Bootstrap 5** per la griglia responsive  
+- **Font Awesome / Google Fonts**  
+- **Formspree** per i moduli di contatto  
+- **Iubenda** per la conformità GDPR  
+- **Google Maps on demand** per la sezione “Dove siamo”
+
+---
+
+## Obiettivi finali
+
+- Offrire una **vetrina digitale autentica e moderna** per un’attività agricola reale  
+- Garantire **performance elevate, chiarezza visiva e identità coerente**  
+- Realizzare un sito **SEO-ready** che unisca estetica, funzionalità e storytelling territoriale  
 
 ---
 
 ## Autore
 
-In fase di sviluppo da Simone Sugliano, sviluppatore front-end in formazione, con l’obiettivo di unire passione per il codice e capacità di ascolto verso chi ha un bisogno concreto da risolvere.
+Sviluppato da **Simone Sugliano**  
+Sviluppatore front-end in formazione, appassionato di progetti concreti che uniscono codice, territorio e identità.
 
-## In breve
+> “Questo sito non è un tema d’esame: è una casa digitale costruita per un’attività vera, mattone dopo mattone, riga dopo riga.”
 
-“Non è un tema d’esame, è una casa digitale per un’attività vera.”
-E come tutte le case, va costruita bene, con cura. Riga per riga.
+
