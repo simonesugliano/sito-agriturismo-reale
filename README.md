@@ -1,6 +1,6 @@
 [![Build](https://img.shields.io/badge/Versione-Dev%20Preview-blue)](#Stato-attuale-del-progetto)
 
-[![Live Preview – Coming Soon](https://img.shields.io/badge/Live_Preview-Coming_Soon-orange?style=for-the-badge)](https://agriturismolabertorella.altervista.org)
+[![Live Preview](https://img.shields.io/badge/Live%20Preview-Demo%20Online-yellow)](http://agriturismolabertorella.altervista.org)
 
 
 # Sito-Agriturismo-Reale  
