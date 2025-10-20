@@ -12,7 +12,7 @@
 
 ---
 
-Benvenuto nel repository di un progetto reale: la creazione su misura del sito web per un vero agriturismo italiano, realizzato in stretta collaborazione con l’azienda agricola stessa. Questo non è un esercizio scolastico, ma un progetto vivo, costruito passo dopo passo sulle esigenze autentiche di un'attività operativa.
+Benvenuto nel repository di un progetto reale: la creazione su misura del sito web per un vero agriturismo italiano, realizzato in stretta collaborazione con l’azienda agricola stessa. **Questo non è un esercizio scolastico, ma un progetto vivo**, costruito passo dopo passo sulle esigenze autentiche di un'attività operativa.
 
 ## Collaborazione reale
 
