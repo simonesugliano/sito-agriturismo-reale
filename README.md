@@ -24,6 +24,8 @@ Ogni pagina, sezione e funzionalità è frutto di un dialogo costante tra svilup
 In costruzione. Il progetto è in pieno sviluppo ma ha già una struttura solida:
 
 Wireframe definito
+[Vai alla cartella wireframes](./wireframes)
+
 
 Mockup in corso
 
