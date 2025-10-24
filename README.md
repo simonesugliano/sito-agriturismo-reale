@@ -4,6 +4,7 @@
 
 [![Utilizzo Calendario Booking](https://img.shields.io/badge/Utilizzo%20Calendario-Booking-green?style=for-the-badge)](INFObooking.md)
 
+[![Booking Calendars Repo](https://img.shields.io/badge/GitHub-Booking%20Calendars-181717?logo=github&style=for-the-badge)](https://github.com/simonesugliano/booking-calendar)
 
 
 
