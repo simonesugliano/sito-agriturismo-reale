@@ -2,7 +2,7 @@
 
 [![Live Preview](https://img.shields.io/badge/Live%20Preview-Demo%20Online-yellow)](http://agriturismolabertorella.altervista.org)
 
-![Utilizzo Calendario Booking](https://img.shields.io/badge/Esportazione%20Calendario-Booking-green?style=for-the-badge)
+![Utilizzo Calendario Booking](https://img.shields.io/badge/Utilizzo%20Calendario-Booking-green?style=for-the-badge)
 
 
 
