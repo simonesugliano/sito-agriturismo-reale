@@ -121,7 +121,7 @@ Controllo rapido
 
 GitHub → Actions → ultimo run → deve essere verde ✅
 
-Aprire /ics/berta.ics → controllare data commit recente
+Aprire/ics/berta.ics → controllare data commit recente
 
 In pagina Prenota → aprire modale → le date occupate devono essere disabilitate
 
