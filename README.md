@@ -1,6 +1,6 @@
-[![Build](https://img.shields.io/badge/Versione-Dev%20Preview-blue)](#Stato-attuale-del-progetto)
+![Build](https://img.shields.io/badge/Versione-Dev%20Preview-blue)(#Stato-attuale-del-progetto)
 
-[![Live Preview](https://img.shields.io/badge/Live%20Preview-Demo%20Online-yellow)](http://agriturismolabertorella.altervista.org)
+![Live Preview](https://img.shields.io/badge/Live%20Preview-Demo%20Online-yellow)(http://agriturismolabertorella.altervista.org)
 
 ![Esportazione Calendario Booking](https://img.shields.io/badge/Esportazione%20Calendario-Booking-green?style=for-the-badge)
 
