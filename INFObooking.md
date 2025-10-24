@@ -182,7 +182,7 @@ RAW ICS (esempio): https://raw.githubusercontent.com/simonesugliano/booking-cale
 
 
 
- <script>
+ .<script>
 document.addEventListener("DOMContentLoaded", async () => {
   const modalCamere = document.getElementById("modalCamere");
   if (!modalCamere) return;
