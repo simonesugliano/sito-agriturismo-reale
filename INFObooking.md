@@ -133,7 +133,7 @@ Aggiungere la riga corrispondente nel workflow
 
 Aggiungere la riga in ICS_LINKS nello script
 
-Aggiornare la <select> e la pagina camere
+Aggiornare la <.select> e la pagina camere
 
 Se Booking mostra pieno ma il sito no
 
