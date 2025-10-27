@@ -113,6 +113,8 @@ Quando verrà rimossa, la struttura SEO è già pronta a **scalare i risultati l
 - Offrire una **vetrina digitale autentica e moderna** per un’attività agricola reale  
 - Garantire **performance elevate, chiarezza visiva e identità coerente**  
 - Realizzare un sito **SEO-ready** che unisca estetica, funzionalità e storytelling territoriale  
+-Particolare attenzione è stata dedicata anche all’accessibilità del sito, per garantire un’esperienza di navigazione completa a tutti gli utenti.
+Ogni immagine include un testo alternativo descrittivo e i controlli interattivi sono ottimizzati per la navigazione da tastiera, così anche chi ha difficoltà visive può orientarsi facilmente tra i contenuti.
 
 ---
 
